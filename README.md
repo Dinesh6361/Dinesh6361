@@ -1,86 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Nihal8Gupta (NIhttps://github.com/Dinesh6361/Dinesh6361/actionsHAL GUPTA) - GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 20px auto;
-      padding: 20px;
-      background: #f9f9f9;
-      line-height: 1.6;
-    }
-    .profile {
-      text-align: center;
-    }
-    .profile img {
-      width: 150px;
-      border-radius: 50%;
-    }
-    .name {
-      font-size: 22px;
-      font-weight: bold;
-    }
-    .username {
-      font-size: 16px;
-      color: gray;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    .section {
-      margin-top: 20px;
-    }
-    ul {
-      margin: 0;
-      padding-left: 20px;
-    }
-  </style>
-</head>
-<body>
-  <div class="profile">
-    <img src="https://avatars.githubusercontent.com/u/114233674?v=4" alt="Nihal Gupta">
-    <div class="name">Nihal8Gupta (NIHAL GUPTA)</div>
-    <div class="username">
-      <a href="https://github.com/Nihal8Gupta" target="_blank">https://github.com/Nihal8Gupta</a>
-    </div>
-    <p>Followers: <b>46</b> · Following: <b>1</b></p>
-  </div>
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
+<h1 align="center">Hi 👋, I'm DINESH S</h1>
+<h3 align="center">------------Full Stack Developer------------</h3>
+<img align='center' alt='coding img' width='50%' src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
 
-  <div class="section">
-    <h2>About Me</h2>
-    <p>👋 Hi, I’m Nihal Gupta — Full Stack Developer</p>
-    <ul>
-      <li>🌱 Currently working on a Food Delivering Application</li>
-      <li>📖 Learning Django and PostgreSQL</li>
-      <li>🤝 Looking to collaborate on Netflix Clone</li>
-      <li>💬 Ask me about Python, SQL, Django</li>
-      <li>📧 Contact: <a href="mailto:nihalgt220@gmail.com">nihalgt220@gmail.com</a></li>
-    </ul>
-  </div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Dinesh6361&label=Profile%20views&color=0e75b6&style=flat" alt="Dinesh6361" />
+</p>
 
-  <div class="section">
-    <h2>Links</h2>
-    <p>
-      🔗 LinkedIn: <a href="https://www.linkedin.com/in/nihal-gupta-77b68b28b/" target="_blank">View Profile</a><br>
-      🔗 LeetCode: <a href="https://leetcode.com/nihalgt220/" target="_blank">nihalgt220</a><br>
-      🔗 HackerRank: <a href="https://www.hackerrank.com/profile/nihalgt220" target="_blank">nihalgt220</a>
-    </p>
-  </div>
 
-  <div class="section">
-    <h2>Pinned Repositories</h2>
-    <ul>
-      <li><b>Django-Projects</b> — Django-Projects (JavaScript)</li>
-      <li><b>DSA</b> — DSA (Python)</li>
-      <li><b>Netflix-Clone</b> — Netflix-Clone (HTML)</li>
-      <li><b>DRF_API</b> — DRF_API (Python)</li>
-      <li><b>Shopping-Cart</b> — Shopping-Cart (Python)</li>
-      <li><b>React</b> — React (HTML)</li>
-    </ul>
-  </div>
-</body>
-</html>
+
+- 🔭 I’m currently working on **Generative AI Chatbot**
+
+- 🌱 I’m currently learning **Django,MERN**
+
+- 👯 I’m looking to collaborate on [Generative AI Chatbot](https://github.com/Dinesh6361/Generative-AI-Chatbot)
+
+- 💬 Ask me about **Python,SQL,Django,HTML,CSS,JAVASCRIPT**
+
+- 📫 How to reach me **dineshs200315@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dinesh6361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/Dinesh6361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> </p>
