@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Django,MERN**
 
-- 👯 I’m looking to collaborate on [Generative AI Chatbot](https://github.com/Dinesh6361/Generative-AI-Chatbot)
+- 👯 I’m looking to collaborate on [Generative AI Chatbot](https://github.com/Dinesh6361/Generative-AI-Project)
 
 - 💬 Ask me about **Python,SQL,Django,HTML,CSS,JAVASCRIPT**
 
